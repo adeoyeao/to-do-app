@@ -11,7 +11,7 @@
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  "homepage": "http;//adeoyeao.github.io/to-do-app",
+  "homepage": "https://adeoyeao.github.io/to-do-app",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",  
