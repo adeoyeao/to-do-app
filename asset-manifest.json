@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/http;//adeoyeao.github.io/to-do-app/static/css/main.da41c606.chunk.css",
+    "main.js": "/http;//adeoyeao.github.io/to-do-app/static/js/main.54b5fb01.chunk.js",
+    "main.js.map": "/http;//adeoyeao.github.io/to-do-app/static/js/main.54b5fb01.chunk.js.map",
+    "runtime-main.js": "/http;//adeoyeao.github.io/to-do-app/static/js/runtime-main.ff220a16.js",
+    "runtime-main.js.map": "/http;//adeoyeao.github.io/to-do-app/static/js/runtime-main.ff220a16.js.map",
+    "static/js/2.ce058889.chunk.js": "/http;//adeoyeao.github.io/to-do-app/static/js/2.ce058889.chunk.js",
+    "static/js/2.ce058889.chunk.js.map": "/http;//adeoyeao.github.io/to-do-app/static/js/2.ce058889.chunk.js.map",
+    "static/js/3.2e6ae78e.chunk.js": "/http;//adeoyeao.github.io/to-do-app/static/js/3.2e6ae78e.chunk.js",
+    "static/js/3.2e6ae78e.chunk.js.map": "/http;//adeoyeao.github.io/to-do-app/static/js/3.2e6ae78e.chunk.js.map",
+    "index.html": "/http;//adeoyeao.github.io/to-do-app/index.html",
+    "static/css/main.da41c606.chunk.css.map": "/http;//adeoyeao.github.io/to-do-app/static/css/main.da41c606.chunk.css.map",
+    "static/js/2.ce058889.chunk.js.LICENSE.txt": "/http;//adeoyeao.github.io/to-do-app/static/js/2.ce058889.chunk.js.LICENSE.txt",
+    "static/media/TodoItem.css": "/http;//adeoyeao.github.io/to-do-app/static/media/delete.c51ffedb.svg",
+    "static/media/logo.6ce24c58.svg": "/http;//adeoyeao.github.io/to-do-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff220a16.js",
+    "static/js/2.ce058889.chunk.js",
+    "static/css/main.da41c606.chunk.css",
+    "static/js/main.54b5fb01.chunk.js"
+  ]
+}
