@@ -43,14 +43,14 @@ function App() {
   }
 
   useEffect(() => {
-    localStorage.setItem("items", items)
-  }, [items])
-
-  useEffect(() => {
     if(localStorage.getItem("items")) {
       setItems(localStorage.getItem("items").split(","))
     } 
   }, [])
+
+  useEffect(() => {
+    localStorage.setItem("items", items)
+  }, [items])
 
   return (
     <div className="App" style={appStyle}>
