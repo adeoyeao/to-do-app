@@ -11,7 +11,7 @@
 .List {
   width: 100%;
   max-width: 500px;
-  height: calc(100vh - 6rem);
+  height: 90%;
   border-radius: 1rem;
   box-shadow: 0 0 7px 4px rgba(0, 0, 0, 0.3);
   background: aliceblue;

@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { useState, useEffect} from "react"
 import AddItem from "./AddItem"
@@ -16,10 +15,10 @@ function App() {
     handleResize()
     window.addEventListener("resize", handleResize)
     return (() => window.removeEventListener("resize", handleResize))
-  })
+  }, [])
 
   const appStyle = {
-    height: viewHeight
+    minHeight: viewHeight
   }
 
   // To Do Items state
